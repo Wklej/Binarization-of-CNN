@@ -10,6 +10,12 @@ Each training and test case represents a label (0-25) as a one-to-one map for ea
 
 ![pic](amer_sign2.png)
 
+## Binarization process
+
+### This scheme shows exacly how do we binarize input and feed it to model
+
+![scheme](Binarization_process.png)
+
 ## Installation
 
 First, You need to download [Dataset](https://www.kaggle.com/datamunge/sign-language-mnist)<br>
