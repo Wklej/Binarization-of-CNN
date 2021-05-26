@@ -4,7 +4,11 @@ Binarization means to reduce range of pixel values from [0, 255] to 0 or 255. Th
 
 ## Dataset
 
+### American Sign Language
 
+Each training and test case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions). The training data contains 27,455 cases and test data contains 7172 cases. Images are in 28x28 pixel format with grayscale values between 0-255.
+
+![pic](amer_sign2.png)
 
 ## Installation
 
@@ -18,13 +22,9 @@ First, You need to download [Dataset](https://www.kaggle.com/datamunge/sign-lang
     - LeNet-signLanguage.ipynb
 4. Open Google Colab notebook
 
-    ```bash
-    pip install foobar
-    ```
+## Importing data to notebook
 
-## Importnig data to notebook
-
-### Mount to a goole Drive
+### Mount to a Google Drive
 
 1. Enter a generated private token after running below section
     ```python
@@ -37,6 +37,14 @@ First, You need to download [Dataset](https://www.kaggle.com/datamunge/sign-lang
     ```
 
 ### You are all set and ready to run next sections of notebook.
+
+
+## Contributors
+
+Filip Wawrzyniak [GitHub](https://github.com/Wklej)<br>
+Patryk Pietranek [GitHub](https://github.com/Patryk-wow)<br>
+Przemysław Świtecki [GitHub](https://github.com/sgt-goose)<br>
+Daniel Pająk
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
