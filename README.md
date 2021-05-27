@@ -50,7 +50,7 @@ First, You need to download [Dataset](https://www.kaggle.com/datamunge/sign-lang
 Filip Wawrzyniak [GitHub](https://github.com/Wklej)<br>
 Patryk Pietranek [GitHub](https://github.com/Patryk-wow)<br>
 Przemysław Świtecki [GitHub](https://github.com/sgt-goose)<br>
-Daniel Pająk
+Daniel Pająk [GitHub](https://github.com/DanielPajak)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
